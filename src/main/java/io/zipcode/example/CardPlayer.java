@@ -34,6 +34,6 @@ public class CardPlayer {
     }
 
     public Double getBalance(){
-        this.profile.getBalance();
+       return  this.profile.getBalance();
     }
 }
